@@ -1,0 +1,11 @@
+.profilePhoto {
+  /* A fixed square crop keeps the portrait centered and circular at every screen size. */
+  display: block;
+  width: 215px;
+  height: 215px;
+  object-fit: cover;
+  object-position: center 42%;
+  border: 3px solid rgba(255, 255, 255, 0.82);
+  border-radius: 50%;
+  box-shadow: 0 0 0 9px rgba(200, 217, 230, 0.12);
+}
