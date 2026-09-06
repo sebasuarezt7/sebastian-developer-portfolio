@@ -14,7 +14,7 @@ A responsive personal portfolio for Sebastian Suarez, a junior full-stack develo
 
 - React
 - TypeScript
-- Vinext
+- Next.js
 - HTML and CSS
 
 ## Run locally
