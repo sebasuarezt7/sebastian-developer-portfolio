@@ -2,6 +2,8 @@
 
 A responsive personal portfolio for Sebastian Suarez, a junior full-stack developer in the Toronto area. The site presents his background, technical skills, completed projects, education, and contact information across focused pages.
 
+[View the live portfolio](https://sebastian-developer-portfolio.vercel.app/)
+
 ## Pages
 
 - Overview
